@@ -33,7 +33,16 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ►👹 *Ig :* _@trpainone_
  ◣━━━━━━━━━━━◢
 
-
+*« Vs / Reglas »*
+ 
+ ◤━━━━━━━━━━━◥
+  ►👹 _${usedPrefix}Vs4_
+  ►👹 _${usedPrefix}Vs8_
+  ►👹 _${usedPrefix}Infinito_
+  ►👹 _${usedPrefix}Vivido_
+  ►👹 _${usedPrefix}Mapa_
+ ◣━━━━━━━━━━━◢
+ 
  *« MENUS ADICIONALES »*
  
  ◤━━━━━━━━━━━◥

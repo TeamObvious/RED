@@ -1,7 +1,7 @@
 {
-  "name": "VioletEvergarden",
+  "name": "TeamRed",
   "version": "1.0.0",
-  "description": "Violet El Mejor Bot",
+  "description": "Red El Mejor Bot",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/TeamObvious/Violet-MD",
+  "homepage": "https://github.com/TeamObvious/RED",
   "author": {
     "name": "TeamObvious"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TeamObvious/Violet-MD.git"
+    "url": "git+https://github.com/TeamObvious/RED.git"
   },
   "bugs": {
-    "url": "https://github.com/TeamObvious/Violet-MD/issues"
+    "url": "https://github.com/TeamObvious/RED/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

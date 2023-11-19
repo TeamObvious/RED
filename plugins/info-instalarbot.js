@@ -1,7 +1,7 @@
 const handler = async (m, {conn, usedPrefix}) => {
   const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
   const document = doc[Math.floor(Math.random() * doc.length)];
-  const text = `*‧˚꒰🩵 𝗩𝗶𝗼𝗹𝗲𝘁 𝗘𝘃𝗲𝗿𝗴𝗮𝗿𝗱𝗲𝗻 🩵꒱°‧`.trim();
+  const text = ``.trim();
   const buttonMessage= {
     'document': {url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`},
     'mimetype': `application/${document}`,

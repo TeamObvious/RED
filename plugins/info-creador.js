@@ -1,7 +1,7 @@
 const handler = async (m, {conn, usedPrefix}) => {
   const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
   const document = doc[Math.floor(Math.random() * doc.length)];
-  const text = `𝑯𝒐𝒍𝒂 𝒆𝒍 𝒄𝒓𝒆𝒂𝒅𝒐𝒓 𝒅𝒆𝒍 𝒃𝒐𝒕 𝒆𝒔 𝑺𝒂𝒎𝒖𝒓𝒂𝒊 𝑩𝒐𝒕 𝒔𝒊 𝒅𝒆𝒔𝒆𝒂𝒔 𝒄𝒐𝒎𝒑𝒓𝒂𝒓 𝒖𝒏 𝒃𝒐𝒕 𝒑𝒆𝒓𝒛𝒐𝒏𝒂𝒍𝒊𝒛𝒂𝒅𝒐 𝒔𝒖 𝒏𝒖𝒎𝒆𝒓𝒐 𝒆𝒔 : wame:/51906528530`.trim();
+  const text = `𝑯𝒐𝒍𝒂 𝒆𝒍 𝒄𝒓𝒆𝒂𝒅𝒐𝒓 𝒅𝒆𝒍 𝒃𝒐𝒕 𝒆𝒔 𝑺𝒂𝒎𝒖𝒓𝒂𝒊 𝑩𝒐𝒕 𝒔𝒊 𝒅𝒆𝒔𝒆𝒂𝒔 𝒄𝒐𝒎𝒑𝒓𝒂𝒓 𝒖𝒏 𝒃𝒐𝒕 𝒑𝒆𝒓𝒛𝒐𝒏𝒂𝒍𝒊𝒛𝒂𝒅𝒐 𝒔𝒖 𝒏𝒖𝒎𝒆𝒓𝒐 𝒆𝒔 : wa.me:/51906528530`.trim();
   const buttonMessage= {
     'document': {url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`},
     'mimetype': `application/${document}`,

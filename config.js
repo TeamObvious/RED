@@ -10,7 +10,7 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['51906528530', '☃️ Violet - Bot ☃️', true],
+  ['51906528530', '☃️ Red - Bot ☃️', true],
   ['50499698072', '💫 Samurai - Collaborator 1 💫', true],
   ['51940617554', '💫 Samurai - Collaborator 2 💫', true],
   ['51996089079', '💫 Samurai - Collaborator 3 💫', true],
@@ -37,12 +37,12 @@ global.suittag = ['51906529530'];
 global.prems = ['51906528530'];
 
 global.packname = 'Sticker';
-global.author = '‧˚꒰🩵 𝗩𝗶𝗼𝗹𝗲𝘁 𝗘𝘃𝗲𝗿𝗴𝗮𝗿𝗱𝗲𝗻 🩵꒱°‧';
-global.wm = '‧˚꒰🩵 𝗩𝗶𝗼𝗹𝗲𝘁 𝗘𝘃𝗲𝗿𝗴𝗮𝗿𝗱𝗲𝗻 🩵꒱°‧';
-global.titulowm = '‧˚꒰🩵 𝗩𝗶𝗼𝗹𝗲𝘁 𝗘𝘃𝗲𝗿𝗴𝗮𝗿𝗱𝗲𝗻 🩵꒱°‧';
-global.titulowm2 = `‧˚꒰🩵 𝗩𝗶𝗼𝗹𝗲𝘁 𝗘𝘃𝗲𝗿𝗴𝗮𝗿𝗱𝗲𝗻 🩵꒱°‧`
-global.igfg = '‧˚꒰🩵 𝗩𝗶𝗼𝗹𝗲𝘁 𝗘𝘃𝗲𝗿𝗴𝗮𝗿𝗱𝗲𝗻 🩵꒱°‧';
-global.wait = '*[ 🎄 ] Cargando...*';
+global.author = '👹 𝗧𝗘𝗔𝗠 𝗥𝗘𝗗 👹';
+global.wm = '👹 𝗧𝗘𝗔𝗠 𝗥𝗘𝗗 👹';
+global.titulowm = '👹 𝗧𝗘𝗔𝗠 𝗥𝗘𝗗 👹';
+global.titulowm2 = `👹 𝗧𝗘𝗔𝗠 𝗥𝗘𝗗 👹`
+global.igfg = '👹 𝗧𝗘𝗔𝗠 𝗥𝗘𝗗 👹';
+global.wait = '*[ 👹 ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
@@ -62,14 +62,14 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ ‧˚꒰🩵 𝗩𝗶𝗼𝗹𝗲𝘁 𝗘𝘃𝗲𝗿𝗴𝗮𝗿𝗱𝗲𝗻 🩵꒱°‧`;
-global.gt = '‧˚꒰🩵 𝗩𝗶𝗼𝗹𝗲𝘁 𝗘𝘃𝗲𝗿𝗴𝗮𝗿𝗱𝗲𝗻 🩵꒱°‧';
-global.mysticbot = '‧˚꒰🩵 𝗩𝗶𝗼𝗹𝗲𝘁 𝗘𝘃𝗲𝗿𝗴𝗮𝗿𝗱𝗲𝗻 🩵꒱°‧';
+global.wm2 = `▸ ${dia} ${fecha}\n▸ 👹 𝗧𝗘𝗔𝗠 𝗥𝗘𝗗 👹`;
+global.gt = '👹 𝗧𝗘𝗔𝗠 𝗥𝗘𝗗 👹';
+global.mysticbot = '👹 𝗧𝗘𝗔𝗠 𝗥𝗘𝗗 👹‧';
 global.md = 'https://github.com/Bots/RobarNo-MD';
 global.mysticbot = 'https://github.com/Bots/RobarNo-MD';
-global.waitt = '*[ 🎄 ] Cargando...*';
-global.waittt = '*[ 🎄 ] Cargando...*';
-global.waitttt = '*[ 🎄 ] Cargando...*';
+global.waitt = '*[ 👹 ] Cargando...*';
+global.waittt = '*[ 👹 ] Cargando...*';
+global.waitttt = '*[ 👹 ] Cargando...*';
 global.nomorown = '51906528530';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';

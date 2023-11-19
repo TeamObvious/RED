@@ -30,6 +30,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ►👹 *Numero:* _+51907998421_
  ►👹 *Comprar Bot :* _+51906528530_
  ►👹 *Tipo De Bot:* _Red Bot Premiun_
+ ►👹 *Ig:* _@trpainone_
  ◣━━━━━━━━━━━◢
 
 
@@ -61,7 +62,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ◣━━━━━━━━━━━◢
 
  *« JUEGOS »*
-
+ 
  ◤━━━━━━━━━━━◥
  ►👹 _${usedPrefix}mates *<noob / easy / medium / hard / extreme /impossible /impossible2>*_
  ►👹 _${usedPrefix}fake *<txt1> <@tag> <txt2>*_
